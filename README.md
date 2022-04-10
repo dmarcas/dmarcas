@@ -33,4 +33,6 @@ I'm David a passionate about code and quality. I'm a Software Developer Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmarcas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--p align="center"><img src="https://komarev.com/ghpvc/?username=davidmarcas&style=flat-square&color=blue" alt=""></p>
+
+#
+<p align="center"><img src="https://komarev.com/ghpvc/?username=davidmarcas&style=flat-square&color=blue" alt=""></p>
