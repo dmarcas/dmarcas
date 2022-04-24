@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm David :man_technologist:</h1>
 <!--p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p-->
 
-I'm David a passionate about code and quality. I'm a Software Developer Engineer in Test who always is looking to grow up as a professional. Always curious and creative looking for the better way to do the things and best practices.
+I'm David a passionate about code and quality. I'm a Software Developer Engineer in Test (a QA guy :stuck_out_tongue_winking_eye:) who always is looking to grow up as a professional. Always curious and creative looking for the better way to do the things and best practices.
 
 [![Linkedin Badge](https://img.shields.io/badge/-dmarcas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmarcas/)](https://www.linkedin.com/in/dmarcas/)
 [![Gmail Badge](https://img.shields.io/badge/-david.marcas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.marcas@gmail.com)](mailto:david.marcas@gmail.com)
