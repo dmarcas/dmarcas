@@ -9,7 +9,7 @@ Previous activity in other git accounts: [![Github Badge](https://img.shields.io
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dmarcas/)
 [![Gmail Badge](https://img.shields.io/badge/-david.marcas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.marcas@gmail.com)](mailto:david.marcas@gmail.com)
 
-# 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
