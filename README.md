@@ -3,11 +3,11 @@
 
 I'm David a passionate about code and quality. I'm a Software Developer Engineer in Test (a QA guy :stuck_out_tongue_winking_eye:) who always is looking to grow personally and professionally. Always curious and creative looking for the better way to do the things and best practices.
 
-Previous activity in other github account: [![Github Badge](https://img.shields.io/badge/-davidmarcas-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davidmarcas)](https://github.com/davidmarcas)
-
-[![Linkedin Badge](https://img.shields.io/badge/-dmarcas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmarcas/)](https://www.linkedin.com/in/dmarcas/)
+Previous activity in other git accounts: [![Github Badge](https://img.shields.io/badge/-davidmarcas-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davidmarcas)](https://github.com/davidmarcas) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/dmarcas)
+&nbsp;
+#### Contact with me:
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dmarcas/)
 [![Gmail Badge](https://img.shields.io/badge/-david.marcas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.marcas@gmail.com)](mailto:david.marcas@gmail.com)
-[![Twitter](https://img.shields.io/badge/dmarcas-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dmarcas)
 
 # 🛠 &nbsp;Languages and Tools :
 
@@ -30,6 +30,8 @@ Previous activity in other github account: [![Github Badge](https://img.shields.
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" **alt="MacOS" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" **alt="Android" width="30" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/WebdriverIO-EA5906.svg?style=for-the-badge&logo=WebdriverIO&logoColor=white" title="WebdriverIO" />&nbsp;
+<img src="https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white" title="Appium" />&nbsp;
 </p>
 
 <!---
