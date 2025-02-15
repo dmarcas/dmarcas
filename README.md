@@ -31,13 +31,17 @@ Previous activity in other git accounts: [![Github Badge](https://img.shields.io
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="Selenium" alt="Selenium"/>&nbsp;
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" title="Cucumber" alt="Cucumber"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" title="Jira" alt="Jira"/>&nbsp;
+  <img src="https://img.shields.io/badge/TestRail-009688?style=for-the-badge&logo=testrail&logoColor=white" title="TestRail" alt="TestRail"/>&nbsp;
+  <img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logo=rest-assured&logoColor=white" title="RestAssured" alt="RestAssured"/>&nbsp;
+  <img src="https://img.shields.io/badge/Locust-009900?style=for-the-badge&logo=locust&logoColor=white" title="Locust" alt="Locust"/>&nbsp;
+  <a href="https://github.com/NightCodeLabs/pretzel" target="_blank">
+    <img src="https://img.shields.io/badge/Pretzel-8A2BE2?style=for-the-badge&logoColor=white&labelColor=black&logo=https://raw.githubusercontent.com/NightCodeLabs/pretzel/main/docs/images/logo.svg" title="Pretzel" alt="Pretzel"/>
+  </a>&nbsp;
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" title="MacOS" alt="MacOS"/>&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" title="iOS" alt="iOS"/>&nbsp;
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" title="Android" alt="Android"/>&nbsp;
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React Native" alt="React Native"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" title="Jira" alt="Jira"/>&nbsp;
-  <img src="https://img.shields.io/badge/TestRail-009688?style=for-the-badge&logo=testrail&logoColor=white" title="TestRail" alt="TestRail"/>&nbsp;
-  <img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logo=rest-assured&logoColor=white" title="RestAssured" alt="RestAssured"/>&nbsp;
   <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=WebdriverIO&logoColor=white" title="WebdriverIO"/>&nbsp;
   <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white" title="Appium"/>&nbsp;
 </p>
